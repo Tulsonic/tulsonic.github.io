@@ -4,4 +4,4 @@ author = ["Tulgar Dinc"]
 draft = false
 +++
 
-test content. yes.
+test content
