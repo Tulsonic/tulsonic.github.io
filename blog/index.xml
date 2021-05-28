@@ -17,14 +17,5 @@ The block Blocks are the building blocks of the blockchain. This section will di
 What are blocks for The point of a block is to store information. For crypto currencies, this means transactions. When someone performs a transaction, this goes out to all nodes of the blockchain.</description>
     </item>
     
-    <item>
-      <title>Test post</title>
-      <link>https://tulsonic.github.io/blog/test-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tulsonic.github.io/blog/test-post/</guid>
-      <description>test content</description>
-    </item>
-    
   </channel>
 </rss>
