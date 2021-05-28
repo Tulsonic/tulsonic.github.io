@@ -8,7 +8,7 @@ paginate = 5
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  contentTypeName = "blog"
 
   # "light" or "dark"
   defaultTheme = "dark"
@@ -29,8 +29,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Toolkit"
+    subtitle = "A collection of notes"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -46,7 +46,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "Toolkit"
       logoHomeLink = "/"
     # or
     #
