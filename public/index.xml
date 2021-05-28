@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Toolkit</title>
+    
+    
+    
     <link>https://tulsonic.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tulsonic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://tulsonic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Test post</title>
-      <link>https://tulsonic.github.io/blog/test-post/</link>
+      <title>Blockchain Basics</title>
+      <link>https://tulsonic.github.io/blog/blockchain-basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tulsonic.github.io/blog/test-post/</guid>
-      <description>test content</description>
+      <guid>https://tulsonic.github.io/blog/blockchain-basics/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          The blockchain is a secure method of storing data based on cryptogaphic methods.
+The block Blocks are the building blocks of the blockchain. This section will discuss the use of blocks in the chain and the content of a blockchain block.
+What are blocks for The point of a block is to store information. For crypto currencies, this means transactions. When someone performs a transaction, this goes out to all nodes of the blockchain.
+          
+        
+        </description>
     </item>
     
   </channel>
