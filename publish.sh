@@ -6,4 +6,4 @@ git add .
 
 git commit -m 'publishing blog'
 
-git push --set-upstream origin mian
+git push -u origin main
