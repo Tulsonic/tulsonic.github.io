@@ -1,4 +1,4 @@
-baseURL = "https://toolkit.github.io"
+baseURL = "https://tulgardinc.github.io/toolkit/"
 languageCode = "en-us"
 title = "Toolkit"
 theme = "hello-friend"
