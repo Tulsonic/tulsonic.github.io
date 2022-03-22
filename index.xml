@@ -35,5 +35,28 @@ What are blocks for The point of a block is to store information. For crypto cur
         </description>
     </item>
     
+    <item>
+      <title>Toolkit Blockchain Basics</title>
+      <link>https://tulsonic.github.io/blog/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tulsonic.github.io/blog/blog/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Blockchain Basics :ID: 77287122-1c35-4291-8dc4-03c7df667d2f
+The blockchain is a secure method of storing data based on cryptographic methods.
+The block Blocks are the building blocks of the blockchain. This section will discuss the use of blocks in the chain and the content of a blockchain block.
+What are blocks for The point of a block is to store information. For crypto currencies, this means transactions. When someone performs a transaction, this goes out to all nodes of the blockchain.
+          
+        
+        </description>
+    </item>
+    
   </channel>
 </rss>
