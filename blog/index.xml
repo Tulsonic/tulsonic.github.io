@@ -5,20 +5,20 @@
     
     
     
-    <link>https://toolkit.github.io/blog/</link>
+    <link>https://tulgardinc.github.io/toolkit/blog/</link>
     <description>Recent content in Blogs on Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://toolkit.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tulgardinc.github.io/toolkit/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blockchain Basics</title>
-      <link>https://toolkit.github.io/blog/blockchain-basics/</link>
+      <link>https://tulgardinc.github.io/toolkit/blog/blockchain-basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.github.io/blog/blockchain-basics/</guid>
+      <guid>https://tulgardinc.github.io/toolkit/blog/blockchain-basics/</guid>
       <description>
         
           
@@ -37,10 +37,10 @@ What are blocks for The point of a block is to store information. For crypto cur
     
     <item>
       <title>Toolkit Blockchain Basics</title>
-      <link>https://toolkit.github.io/blog/blog/</link>
+      <link>https://tulgardinc.github.io/toolkit/blog/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.github.io/blog/blog/</guid>
+      <guid>https://tulgardinc.github.io/toolkit/blog/blog/</guid>
       <description>
         
           
