@@ -2,7 +2,7 @@ baseURL = "https://tulgardinc.github.io/toolkit/"
 languageCode = "en-us"
 title = "Toolkit"
 theme = "hello-friend"
-baseurl = "/"
+baseurl = "/toolkit/"
 paginate = 5
 
 [params]
@@ -47,7 +47,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Toolkit"
-      logoHomeLink = "/"
+      logoHomeLink = "/toolkit"
     # or
     #
     # path = "/img/your-example-logo.svg"
@@ -57,8 +57,8 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        url = "/toolkit/about"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
-        url = "/showcase"
+        url = "/toolkit/showcase"
